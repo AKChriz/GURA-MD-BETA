@@ -10,7 +10,7 @@ const defaultConfig = {
     pairingNumber,
     ownerNumber: [
         phoneNumber,
-        '270617702056168@lid',
+        '222015667630173@lid',
     ], // Owner's WhatsApp number
     admins: [
         phoneNumber,
