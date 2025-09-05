@@ -18,7 +18,7 @@ const categoryMap = {
     },
     games: {
         title: "🎮 Games",
-        commands: ['hangman', 'trivia', 'truth', 'dare']
+        commands: ['hangman', 'tictactoe', 'trivia', 'truth', 'dare']
     },
     downloads: {
         title: "⬇️ Downloads",
